@@ -1,0 +1,29 @@
+{
+  "name": "automation_excercise",
+  "version": "1.0.0",
+  "description": "Playwright + TypeScript UI automation framework for automationexercise.com (official 26 UI test cases)",
+  "main": "index.js",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [
+    "playwright",
+    "typescript",
+    "automation",
+    "pom"
+  ],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@faker-js/faker": "^10.6.0",
+    "@playwright/test": "^1.63.0",
+    "@types/node": "^26.6.3",
+    "typescript": "^5.9.2",
+    "winston": "^3.19.0"
+  }
+}

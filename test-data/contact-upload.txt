@@ -1,0 +1,1 @@
+This is a sample file used by Test Case 6 to exercise the Contact Us file upload.

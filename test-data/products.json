@@ -1,0 +1,20 @@
+{
+  "searchTerm": "Top",
+  "cartQuantity": 4,
+  "brands": {
+    "first": "Polo",
+    "second": "Madame"
+  },
+  "categories": {
+    "women": {
+      "main": "Women",
+      "sub": "Tops",
+      "heading": "Women - Tops Products"
+    },
+    "men": {
+      "main": "Men",
+      "sub": "Tshirts",
+      "heading": "Men - Tshirts Products"
+    }
+  }
+}

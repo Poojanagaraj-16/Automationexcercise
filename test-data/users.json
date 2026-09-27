@@ -1,0 +1,10 @@
+{
+  "registrationDefaults": {
+    "title": "Mr",
+    "country": "India"
+  },
+  "orderComment": "Please deliver between 9 AM and 5 PM.",
+  "review": {
+    "text": "Excellent quality product. Highly recommended!"
+  }
+}
